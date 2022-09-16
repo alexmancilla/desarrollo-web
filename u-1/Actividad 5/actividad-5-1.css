@@ -1,0 +1,109 @@
+head, body{
+    /* font-family: sans-serif; */
+    margin: 20px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+
+p,
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: .9rem;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+blockquote {
+    font-size: .9rem;
+    font-style: italic;
+    margin: 1em 0;
+    padding: 0 1em;
+    border-left: 0.25em solid #ccc;
+    color: #f94144;
+
+}
+q {
+    font-style: italic;
+    /* color */
+    color: #f3722c;
+}
+abbr {
+    color: #f7b32b;
+}
+
+address {
+    font-style: normal;
+    font-size: .9rem;
+    margin: 1em 0;
+    padding: 0 1em;
+    border-left: 0.25em solid #ccc;
+    color: #13c4a3;
+}
+sub {
+    font-size: .9rem;
+    vertical-align: super;
+    position: relative;
+    top: -0.5em;
+    color: #36f1cd;
+}
+
+ code {
+    font-size: .9rem;
+    font-family: monospace;
+    color: #39a0ed;
+    background-color: ghostwhite;
+    padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+
+}
+
+pre {
+    font-size: .9rem;
+    font-family: monospace;
+    color: #4c6085;
+    background-color: gainsboro;
+    /* padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+    overflow: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word; */
+}
+
+var {
+    font-style: italic;
+    color: #b52dc8;
+}
+
+kbd
+{
+    font-size: .9rem;
+    font-family: monospace;
+    color: #8bc34a;
+    background-color: #e2e6e6;
+    padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+}
+
+samp {
+    font-size: .9rem;
+    font-family: monospace;
+    color: #f3722c;
+    background-color: #f9c74f;
+    padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+}
+
+time {
+    font-size: .9rem;
+    font-family: monospace;
+    color: #1360e2;
+    background-color: #60b6fb;
+    padding: 0.1em 0.2em;
+    border-radius: 0.2em;
+}
